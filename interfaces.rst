@@ -729,8 +729,8 @@ C'mon, admit it! You've got a *NERDON* after this chapter!!!
 
 .. external links and footnotes:
 
-.. _fmt package: http://golang.org/pkg/fmt/index.html
-.. _Stringer: http://golang.org/pkg/fmt/index.html#Stringer
-.. _sort package: http://golang.org/pkg/sort/index.html
-.. _sort Interface doc: http://golang.org/pkg/sort/index.html#Interface
-.. _sort package source code: http://goo.gl/yjmvc
+.. _fmt package: https://golang.org/pkg/fmt/
+.. _Stringer: https://golang.org/pkg/fmt/#Stringer
+.. _sort package: https://golang.org/pkg/sort/
+.. _sort Interface doc: https://golang.org/pkg/sort/#Interface
+.. _sort package source code: https://github.com/golang/go/blob/master/src/sort/sort.go
